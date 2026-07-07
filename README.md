@@ -6,3 +6,6 @@ This datapack runs a lightweight check every tick, but only processes Armor Stan
 
 # How to Install
 If the `.zip` file doesn't create a folder automatically, create one manually. Place the `.zip` file inside your world's `datapacks` folder and run `/reload` in-game.
+
+# How To Build 
+Working on this!
