@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/arroznatwitch/ArmorStandNameTag/main/armorstandnametag/icon.png" width="120" alt="Armor Stand Nametag icon">
+</p>
+
 # Armor Stand Nametag
 Makes Armor Stand names visible when you apply a Name Tag to them — no commands or NBT editors needed. Just rename a Name Tag on an anvil, right-click your Armor Stand, and the name will instantly appear floating above it.
 
@@ -6,6 +10,3 @@ This datapack runs a lightweight check every tick, but only processes Armor Stan
 
 # How to Install
 If the `.zip` file doesn't create a folder automatically, create one manually. Place the `.zip` file inside your world's `datapacks` folder and run `/reload` in-game.
-
-# How To Build 
-Working on this!
